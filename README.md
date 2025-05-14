@@ -81,6 +81,3 @@ Este proyecto demostró cómo pasar de un enfoque básico de predicción a uno m
 
 ⸻
 
-📤 ¿Te gustaría que compile todo esto como un documento educativo (PDF, Word o Markdown)?
-
-Puedo generarte un informe con secciones, títulos, tablas y gráficos integrados, listo para compartir o presentar. ¿Cómo te gustaría exportarlo?
